@@ -1,4 +1,6 @@
-# ucimo-rust
+# Učimo Rust
+
+[Rust](https://www.rust-lang.org/en-US/) is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. 
 
 ## Installing on Linux or Mac
 
