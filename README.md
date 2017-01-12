@@ -31,7 +31,7 @@ Kada je konfiguracioni fajl `Cargo.toml` prisutan, automatizovano kompajliranje 
 ```
 cargo build
 ```
-ili istovremeno kompajliranje i pokretanje:
+Cargo gleda u `src` folder, i smešta preveden fajl u `target/debug`. Istovremeno kompajliranje i pokretanje programa vrši se sledećom komandom:
 ```
 cargo run
 ```
