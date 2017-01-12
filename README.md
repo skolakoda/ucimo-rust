@@ -26,3 +26,12 @@ rustc main.rs
 ```
 
 Rustc je očigledno skraćeno od Rust compiler :)
+
+Kada je konfiguracioni fajl `Cargo.toml` prisutan, automatizovano kompajliranje vrši se komandom:
+```
+cargo build
+```
+ili istovremeno kompajliranje i pokretanje:
+```
+cargo run
+```
